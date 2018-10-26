@@ -34,4 +34,14 @@ Es un enlace especial con comienza con! seguido de un texto alternativo entre co
 ![Texto alternativo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 ### Código y resaltado de sintaxis
+Para marcar código inline se hace con \`. `por ejemplo` 
+
+Para un párrafo de código va entre tres \` y se puede especificar el lenguaje despues para el coloreado de código
+```
+Párrafo de código 
+``` 
+### Acotaciones
+Comenzado la línea con >
+
+> Esto es una acotación
 
