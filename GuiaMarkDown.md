@@ -40,6 +40,9 @@ Para un párrafo de código va entre tres \` y se puede especificar el lenguaje 
 ```
 Párrafo de código 
 ``` 
+``` bash
+ $ pip install mkdocs
+``` 
 ### Acotaciones
 Comenzado la línea con >
 
